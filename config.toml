@@ -1,0 +1,4 @@
+baseURL = "https://cardsfreedomerly.vercel.app"
+languageCode = "en-us"
+title = "Card Image 2021"
+theme = "hugo-theme-minos"
